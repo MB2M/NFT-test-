@@ -16,6 +16,8 @@ Open your favorite terminal at the root folder and execute :<br />
 
 ## 2.Configuration
 
+You need to have a Pinata API key: https://app.pinata.cloud/pinmanager
+
 Create your own `.env` file and add your parameters (there is a .env.example file that you can copy):
 
     -   `MNEMONIC`: Your mnemonic.
